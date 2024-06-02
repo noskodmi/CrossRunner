@@ -2,7 +2,7 @@
 ETHPrague 2024 hackathon submission
 Open [Telegram mini app bot link](https://t.me/testbotminiappbot) to play game. Game is avaliable on telegram messenger
 
-Linea [CROSS Token] (https://sepolia.etherscan.io/token/0x94Ed72D12C0dA765ef9FfdCA3214eF8D3e18A2Bd)
+Linea [CROSS Token] (https://lineascan.build/token/0x8327c74e66f3176f6be540c730b962f3e0562449)
 Mantle [CROSS Token] (https://sepolia.etherscan.io/token/0x94Ed72D12C0dA765ef9FfdCA3214eF8D3e18A2Bd)
 ## Setup
 
