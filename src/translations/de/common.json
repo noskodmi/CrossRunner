@@ -1,0 +1,105 @@
+{
+    "main": {
+        "title": "LAUFEN, UM ZU GEWINNEN",
+        "coins": "Münzen",
+        "button": "SPIELEN"
+    },
+    "shop": {
+        "title1": "Bank:",
+        "title2": "Münzen",
+        "powerups": {
+            "title": "Power-ups",
+            "coin box": {
+                "name": "Münzkiste",
+                "info": "steigere deine Münzen"
+            },
+            "wings": {
+                "name": "Flügel",
+                "info": "fliege über Hindernisse"
+            }
+        },
+        "characters": {
+            "title": "Charaktere",
+            "runner": {
+                "name": "Läufer",
+                "info": "Ein energiegeladener junger Athlet, der Läufer sprintet mit bemerkenswerter Agilität und Geschwindigkeit durch Hindernisse. Seine jugendliche Energie und Ausdauer machen ihn zur ersten Wahl für Spieler, die schnelles und dynamisches Gameplay bevorzugen."
+            },
+            "cok": {
+                "name": "cok",
+                "info": "Aus einer fernen Galaxie stammend, ist Cok ein eigenartiges Alien mit einzigartigen Fähigkeiten. Seine außerirdische Herkunft verleiht ihm besondere Kräfte und bietet ein Spielerlebnis voller Überraschungen und unkonventioneller Taktiken."
+            },
+            "gran": {
+                "name": "gran",
+                "info": "Lassen Sie sich nicht von ihrem Alter täuschen; Gran ist ein alter, aber bemerkenswert fitter Charakter. Sie vereint Erfahrung und Ausdauer und beweist, dass Alter nur eine Zahl ist. Ihre Widerstandsfähigkeit und klugen Strategien sprechen Spieler an, die einen stabilen und durchdachten Ansatz bevorzugen."
+            },
+            "robot": {
+                "name": "Roboter",
+                "info": "Ein High-Tech-Wunder, der Roboter ist eine elegante und fortschrittliche Maschine, die für Präzision und Effizienz entwickelt wurde. Seine robotischen Fähigkeiten ermöglichen außergewöhnliche Manöver und technisches Gameplay und ziehen Spieler an, die ein futuristisches und strategisches Spiel lieben."
+            },
+            "zai": {
+                "name": "zai",
+                "info": "Zai ist der Riese seines Teams. Mit seiner riesigen Statur und seiner unvergleichlichen Stärke kann er Hindernisse leicht beseitigen."
+            },
+            "trap": {
+                "name": "trap",
+                "info": "Trap, das Bild der Ruhe, gleitet durch das Chaos mit einer beherrschten Haltung. Sein bedächtiger Charakter ermöglicht es ihm, sich mühelos durch gefährliches Gelände zu bewegen."
+            },
+            "coolman": {
+                "name": "coolman",
+                "info": "Coolman lebt seinem Namen nach mit seiner kräftigen Verfassung und seinen entspannten Taktiken."
+            }
+        },
+        "buy": "kaufen",
+        "activate": "aktivieren",
+        "choose": "auswählen",
+        "left": "links",
+        "loading": "Lade Power-ups..."
+    },
+    "stats": {
+        "title": "Heutige Statistiken",
+        "league": "Liga",
+        "rank-novice": "Anfänger",
+        "rank-casual": "Gelegenheitsspieler",
+        "rank-athelete": "Athlet",
+        "rank-half-marathon": "Halbmarathon",
+        "rank-marathon": "Marathon"
+    },
+    "total-coins": {
+        "title": "Hol dir mehr Münzen",
+        "group1": {
+            "title": "Tägliches Gratisgeschenk",
+            "option1": "Bonus verdienen"
+        },
+        "group2": {
+            "title": "Herausforderungen",
+            "option1": "Freunde einladen",
+            "option2": "Chat beitreten"
+        }
+    },
+    "user-page": {
+        "title": "Deine Punktzahl ist",
+        "title2": "Laufende Freunde",
+        "button": "Freunde einladen"
+    },
+    "game": {
+        "button": {
+            "left": "Links",
+            "rigth": "Rechts",
+            "slide": "Gleiten",
+            "jump": "Springen"
+        },
+        "desktop-controls1": "Bewegung:",
+        "desktop-controls2": "Springen: Leertaste",
+        "mobile-controls1": "Bewegung: Wischen",
+        "mobile-controls2": "Springen: Tippen",
+        "ready": "Bereit",
+        "set": "Los",
+        "go": "Los!"
+    },
+    "button-link": {
+        "stats": "Statistiken",
+        "stats-description": "Rangliste anzeigen",
+        "shop": "Geschäft",
+        "shop-description": "Münzen kaufen"
+    }
+}

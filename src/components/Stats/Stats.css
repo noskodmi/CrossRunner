@@ -1,0 +1,75 @@
+#stats-container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+
+#stats-container h1{
+    text-align: center;
+    margin: 1rem auto;
+}
+
+#stats-list {
+    font-size: 1.5rem;
+    max-height: 80vh; /* Example max height, adjust as needed */
+    width: 90%;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch; /* Smooth scrolling for iOS devices */
+}
+
+.stats-c {
+    display: flex;
+    flex-direction: row;
+    align-items: center; /* Align items vertically */
+}
+
+.stats-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 1rem;
+    width: 10rem;
+}
+
+.stats-info span {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.emoji {
+    font-size: 1.5rem; /* Match the size of other text */
+    margin-right: 0.5rem; /* Spacing between emoji and image */
+}
+
+#stats-list li {
+    font-size: 1.5rem;
+    background-color: rgba(255, 255, 255, 0.2);
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    padding: 0.5rem 0.8rem;
+    margin-bottom: 2rem;
+}
+
+.league-navigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    width: 90%; /* Ensure full width to push buttons to sides */
+}
+
+.league-navigation button {
+    background: none; /* Remove button background */
+    border: none; /* Remove border */
+    font-size: 1.5rem; /* Increase font size for visibility */
+    color: rgba(0, 0, 0, 0.4); /* Set color */
+    cursor: pointer;
+    padding: 0.5rem;
+    transition: color 0.3s;
+}
+/* Optionally, hide the buttons when not required */
+.league-navigation button[disabled] {
+    visibility: hidden;
+}

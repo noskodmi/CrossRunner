@@ -1,0 +1,105 @@
+{
+    "main": {
+        "title": "CORRI PER VINCERE",
+        "coins": "monete",
+        "button": "GIOCA"
+    },
+    "shop": {
+        "title1": "Banca:",
+        "title2": "monete",
+        "powerups": {
+            "title": "Potenziamenti",
+            "coin box": {
+                "name": "scatola delle monete",
+                "info": "aumenta le tue monete"
+            },
+            "wings": {
+                "name": "ali",
+                "info": "vola sopra gli ostacoli"
+            }
+        },
+        "characters": {
+            "title": "Personaggi",
+            "runner": {
+                "name": "corridore",
+                "info": "Un giovane atleta pieno di spirito, il Corridore sfreccia tra gli ostacoli con agilità e velocità notevoli. La sua energia giovanile e resistenza lo rendono la scelta migliore per i giocatori che preferiscono un gameplay veloce e dinamico."
+            },
+            "cok": {
+                "name": "cok",
+                "info": "Proveniente da una galassia lontana, Cok è un alieno stravagante con abilità uniche. La sua origine extraterrestre gli conferisce poteri speciali, offrendo un'esperienza di gioco piena di sorprese e tattiche non convenzionali."
+            },
+            "gran": {
+                "name": "gran",
+                "info": "Non lasciarti ingannare dalla sua età; Gran è un personaggio anziano ma incredibilmente in forma. Unisce esperienza e resistenza, dimostrando che l'età è solo un numero. La sua resilienza e le sue strategie sagge attraggono i giocatori che apprezzano un approccio stabile e calcolato."
+            },
+            "robot": {
+                "name": "robot",
+                "info": "Una meraviglia dell'alta tecnologia, Robot è una macchina elegante e avanzata progettata per precisione ed efficienza. Le sue capacità robotiche consentono manovre straordinarie e gameplay tecnico, attirando i giocatori che amano un gioco futuristico e strategico."
+            },
+            "zai": {
+                "name": "zai",
+                "info": "Zai è la forza trainante del roster. Con la sua imponente statura e forza ineguagliata, si fa strada attraverso gli ostacoli con facilità."
+            },
+            "trap": {
+                "name": "trap",
+                "info": "Trap, l'incarnazione della calma, si muove attraverso il caos con un atteggiamento rilassato. La sua aria rilassata gli permette di navigare con facilità in terreni insidiosi."
+            },
+            "coolman": {
+                "name": "coolman",
+                "info": "Coolman onora il suo nome con una robusta fisicità e tattiche imperturbabili."
+            }
+        },
+        "buy": "acquista",
+        "activate": "attiva",
+        "choose": "scegli",
+        "left": "sinistra",
+        "loading": "Caricamento potenziamenti..."
+    },
+    "stats": {
+        "title": "Statistiche di oggi",
+        "league": "lega",
+        "rank-novice": "Principiante",
+        "rank-casual": "Casuale",
+        "rank-athelete": "Atleta",
+        "rank-half-marathon": "Mezza maratona",
+        "rank-marathon": "Maratona"
+    },
+    "total-coins": {
+        "title": "Ottieni più monete",
+        "group1": {
+            "title": "Regalo quotidiano",
+            "option1": "guadagna bonus"
+        },
+        "group2": {
+            "title": "Sfide",
+            "option1": "invita amici",
+            "option2": "unisciti alla chat"
+        }
+    },
+    "user-page": {
+        "title": "Il tuo punteggio è",
+        "title2": "Amici in corsa",
+        "button": "Invita amici"
+    },
+    "game": {
+        "button": {
+            "left": "Sinistra",
+            "rigth": "Destra",
+            "slide": "Scivola",
+            "jump": "Salta"
+        },
+        "desktop-controls1": "Movimento:",
+        "desktop-controls2": "Salto: Spazio",
+        "mobile-controls1": "Movimento: Scorri",
+        "mobile-controls2": "Salto: Tocca",
+        "ready": "Pronto",
+        "set": "Preparati",
+        "go": "Via!"
+    },
+    "button-link": {
+        "stats": "Statistiche",
+        "stats-description": "guarda la classifica",
+        "shop": "Negozio",
+        "shop-description": "acquista monete"
+    }
+}

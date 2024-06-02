@@ -1,0 +1,105 @@
+{
+    "main": {
+        "title": "CORRA PARA VENCER",
+        "coins": "moedas",
+        "button": "JOGAR"
+    },
+    "shop": {
+        "title1": "Banco:",
+        "title2": "moedas",
+        "powerups": {
+            "title": "Aprimoramentos",
+            "coin box": {
+                "name": "caixa de moedas",
+                "info": "aumente suas moedas"
+            },
+            "wings": {
+                "name": "asas",
+                "info": "voe sobre obstáculos"
+            }
+        },
+        "characters": {
+            "title": "Personagens",
+            "runner": {
+                "name": "corredor",
+                "info": "Um atleta jovem e espirituoso, o Corredor atravessa obstáculos com agilidade e velocidade notáveis. Sua energia e resistência jovens o tornam uma escolha superior para jogadores que preferem uma jogabilidade rápida e dinâmica."
+            },
+            "cok": {
+                "name": "cok",
+                "info": "Vindo de uma galáxia distante, Cok é um alienígena peculiar com habilidades únicas. Sua origem extraterrestre concede a ele poderes especiais, oferecendo uma experiência de jogo cheia de surpresas e táticas não convencionais."
+            },
+            "gran": {
+                "name": "gran",
+                "info": "Não se engane com sua idade; Gran é um personagem idoso, mas notavelmente em forma. Ela combina experiência e resistência, provando que a idade é apenas um número. Sua resiliência e estratégias sábias atraem jogadores que apreciam uma abordagem constante e calculada."
+            },
+            "robot": {
+                "name": "robô",
+                "info": "Uma maravilha de alta tecnologia, o Robô é uma máquina elegante e avançada projetada para precisão e eficiência. Suas capacidades robóticas permitem manobras extraordinárias e jogabilidade técnica, atraindo jogadores que amam um estilo de jogo futurista e estratégico."
+            },
+            "zai": {
+                "name": "zai",
+                "info": "Zai é a força dominante na linha de frente. Com seu tamanho impressionante e força sem igual, ele derruba obstáculos com facilidade."
+            },
+            "trap": {
+                "name": "trap",
+                "info": "Trap, o emblema da serenidade, desliza pelo caos com uma atitude relaxada. Seu temperamento calmo permite que ele navegue por terrenos perigosos sem esforço."
+            },
+            "coolman": {
+                "name": "coolman",
+                "info": "Coolman faz jus ao seu nome com uma postura imponente e táticas serenas."
+            }
+        },
+        "buy": "comprar",
+        "activate": "ativar",
+        "choose": "escolher",
+        "left": "restante",
+        "loading": "Carregando aprimoramentos..."
+    },
+    "stats": {
+        "title": "Estatísticas de Hoje",
+        "league": "liga",
+        "rank-novice": "Novato",
+        "rank-casual": "Casual",
+        "rank-athelete": "Atleta",
+        "rank-half-marathon": "Meia Maratona",
+        "rank-marathon": "Maratona"
+    },
+    "total-coins": {
+        "title": "Obtenha mais moedas",
+        "group1": {
+            "title": "Bônus Diário",
+            "option1": "ganhe recompensa"
+        },
+        "group2": {
+            "title": "Desafios",
+            "option1": "convide amigos",
+            "option2": "junte-se ao chat"
+        }
+    },
+    "user-page": {
+        "title": "Seu placar é",
+        "title2": "Amigos Corredores",
+        "button": "Convidar amigos"
+    },
+    "game": {
+        "button": {
+            "left": "Esquerda",
+            "rigth": "Direita",
+            "slide": "Deslizar",
+            "jump": "Saltar"
+        },
+        "desktop-controls1": "Mover:",
+        "desktop-controls2": "Saltar: Espaço",
+        "mobile-controls1": "Mover: Deslizar",
+        "mobile-controls2": "Saltar: Toque",
+        "ready": "Pronto",
+        "set": "Preparar",
+        "go": "Ir!"
+    },
+    "button-link": {
+        "stats": "Estatísticas",
+        "stats-description": "ver classificação",
+        "shop": "Loja",
+        "shop-description": "comprar moedas"
+    }
+}

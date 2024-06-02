@@ -1,0 +1,61 @@
+.btn {
+    padding: 0.6rem 0.8rem;
+    font-size: 2rem;
+    text-align: center;
+    width: 90vw;
+    background-color: rgba(255, 255, 255, 0.2);
+    border: none;
+    color: #fff; 
+    text-decoration: none;
+    backdrop-filter: blur(0.5rem); /* Blur effect */
+    transition-duration: 0.4s;
+    outline: none;
+    border-radius: 10px;
+    box-shadow: 0 0.5rem 0.5rem rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-shrink: 1; /* Allow the button to shrink */
+    flex-basis: auto;
+}
+
+.btn:hover {
+    background-color: rgba(255, 255, 255, 0.3); /* Slightly less transparent on hover */
+}
+
+.btn-icon{
+    font-size: 2.5rem;
+    padding: 0.3rem 0.9rem;
+    border: 0.1rem solid rgba(0, 0, 0, 0.1);
+    border-radius: 1rem;
+    background-color: rgba(255, 255, 255, 0.2);
+    flex-shrink: 0;
+}
+
+.btn-text {
+    flex-grow: 1; /* Allow text to grow and shrink */
+    flex-shrink: 1;
+    flex-basis: auto; /* Base size is automatic */
+    min-width: 0; /* Allow the text to shrink below its content's intrinsic width */
+}
+
+.btn-title, .btn-description {
+    white-space: nowrap; /* Prevent text from wrapping */
+    overflow: hidden; /* Hide overflow */
+    text-overflow: ellipsis; /* Add ellipsis for overflowed text */
+}
+
+.btn-arrow {
+    padding-right: 1rem;
+    flex-shrink: 0;
+}
+
+.btn-description{
+    font-size: 1rem;
+}
+
+.btn img {
+    height: 50%;
+}
+

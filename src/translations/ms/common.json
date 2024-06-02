@@ -1,0 +1,105 @@
+{
+    "main": {
+        "title": "LARI UNTUK MENANG",
+        "coins": "syiling",
+        "button": "MAIN"
+    },
+    "shop": {
+        "title1": "Bank:",
+        "title2": "syiling",
+        "powerups": {
+            "title": "Peningkatan",
+            "coin box": {
+                "name": "kotak syiling",
+                "info": "tingkatkan syiling anda"
+            },
+            "wings": {
+                "name": "sayap",
+                "info": "terbang melintasi halangan"
+            }
+        },
+        "characters": {
+            "title": "Watak",
+            "runner": {
+                "name": "pelari",
+                "info": "Seorang atlet muda yang bersemangat, Pelari meloloskan dirinya melalui halangan dengan kecekapan dan kelajuan yang luar biasa. Tenaga muda dan daya tahan nya menjadikannya pilihan utama bagi pemain yang gemar permainan yang pantas dan dinamik."
+            },
+            "cok": {
+                "name": "cok",
+                "info": "Berasal dari galaksi yang jauh, Cok adalah makhluk asing yang aneh dengan keupayaan unik. Asal usulnya yang asing memberinya kuasa istimewa, menawarkan pengalaman bermain yang penuh dengan kejutan dan taktik yang tidak lazim."
+            },
+            "gran": {
+                "name": "gran",
+                "info": "Jangan terpedaya dengan umurnya; Gran adalah watak yang tua tetapi sangat bertenaga. Beliau menggabungkan pengalaman dan daya tahan, membuktikan bahawa umur hanya satu angka. Ketahanan dan strategi bijaknya menarik kepada pemain yang menggemari pendekatan yang mantap dan terancang."
+            },
+            "robot": {
+                "name": "robot",
+                "info": "Keajaiban teknologi tinggi, Robot adalah mesin yang licin dan canggih yang direka untuk ketepatan dan kecekapan. Kemampuan robotiknya membolehkan manuver luar biasa dan permainan teknikal, menarik pemain yang suka permainan futuristik dan strategik."
+            },
+            "zai": {
+                "name": "zai",
+                "info": "Zai adalah tenaga utama dalam barisan itu. Dengan saiz yang mengagumkan dan kekuatan yang tiada bandingannya, dia melanda halangan dengan mudah."
+            },
+            "trap": {
+                "name": "trap",
+                "info": "Trap, lambang ketenangan, meluncur melalui kekacauan dengan sikap yang santai. Suasana hati yang tenang memungkinkannya untuk menavigasi medan yang berbahaya dengan mudah."
+            },
+            "coolman": {
+                "name": "coolman",
+                "info": "Coolman hidup setanding dengan namanya dengan badan yang gagah dan taktik yang tenang."
+            }
+        },
+        "buy": "beli",
+        "activate": "aktifkan",
+        "choose": "pilih",
+        "left": "kiri",
+        "loading": "Memuatkan peningkatan..."
+    },
+    "stats": {
+        "title": "Statistik Hari Ini",
+        "league": "liga",
+        "rank-novice": "Novis",
+        "rank-casual": "Biasa",
+        "rank-athelete": "Atlet",
+        "rank-half-marathon": "Separuh Maraton",
+        "rank-marathon": "Maraton"
+    },
+    "total-coins": {
+        "title": "Dapatkan lebih banyak syiling",
+        "group1": {
+            "title": "Hadiah Harian",
+            "option1": "jana bonus"
+        },
+        "group2": {
+            "title": "Cabaran",
+            "option1": "jemput rakan",
+            "option2": "sertai sembang"
+        }
+    },
+    "user-page": {
+        "title": "Markah Anda",
+        "title2": "Rakan Larian",
+        "button": "Jemput Rakan"
+    },
+    "game": {
+        "button": {
+            "left": "Kiri",
+            "rigth": "Kanan",
+            "slide": "Luncur",
+            "jump": "Lompat"
+        },
+        "desktop-controls1": "Gerak:",
+        "desktop-controls2": "Lompat: Ruang",
+        "mobile-controls1": "Gerak: Sapu",
+        "mobile-controls2": "Lompat: Ketuk",
+        "ready": "Sedia",
+        "set": "Set",
+        "go": "Pergi!"
+    },
+    "button-link": {
+        "stats": "Statistik",
+        "stats-description": "lihat papan pemimpin",
+        "shop": "Kedai",
+        "shop-description": "beli syiling"
+    }
+}

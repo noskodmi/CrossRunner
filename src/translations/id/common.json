@@ -1,0 +1,105 @@
+{
+    "main": {
+        "title": "LARI UNTUK MENANG",
+        "coins": "koin",
+        "button": "MAIN"
+    },
+    "shop": {
+        "title1": "Bank:",
+        "title2": "koin",
+        "powerups": {
+            "title": "Peningkatan",
+            "coin box": {
+                "name": "kotak koin",
+                "info": "tingkatkan koin Anda"
+            },
+            "wings": {
+                "name": "sayap",
+                "info": "terbangi atas rintangan"
+            }
+        },
+        "characters": {
+            "title": "Karakter",
+            "runner": {
+                "name": "pelari",
+                "info": "Atlet muda yang bersemangat, Pelari melaju melalui rintangan dengan kecepatan dan ketangkasan luar biasa. Energi dan daya tahan muda membuatnya pilihan utama bagi pemain yang menyukai permainan cepat dan dinamis."
+            },
+            "cok": {
+                "name": "cok",
+                "info": "Berasal dari galaksi yang jauh, Cok adalah alien yang aneh dengan kemampuan unik. Asal-usul ekstraterestrialnya memberinya kekuatan khusus, menawarkan pengalaman bermain yang penuh dengan kejutan dan taktik yang tidak biasa."
+            },
+            "gran": {
+                "name": "gran",
+                "info": "Jangan tertipu oleh usianya; Gran adalah karakter tua namun sangat bugar. Dia menggabungkan pengalaman dan daya tahan, membuktikan bahwa usia hanya angka belaka. Ketahanan dan strategi bijaknya menarik bagi pemain yang menikmati pendekatan yang mantap dan terhitung."
+            },
+            "robot": {
+                "name": "robot",
+                "info": "Sebuah keajaiban teknologi tinggi, Robot adalah mesin yang ramping dan canggih yang dirancang untuk ketepatan dan efisiensi. Kemampuan robotiknya memungkinkan manuver luar biasa dan permainan teknis, menarik pemain yang menyukai gaya bermain futuristik dan strategis."
+            },
+            "zai": {
+                "name": "zai",
+                "info": "Zai adalah pusat tenaga dari daftar tim. Dengan ukuran yang mengesankan dan kekuatan yang tak tertandingi, ia mampu mendorong hambatan dengan mudah."
+            },
+            "trap": {
+                "name": "trap",
+                "info": "Trap, perwujudan ketenangan, meluncur melalui kekacauan dengan sikap santai. Suasana hati yang dingin memungkinkannya untuk dengan mudah menavigasi medan yang berbahaya."
+            },
+            "coolman": {
+                "name": "coolman",
+                "info": "Coolman benar-benar sesuai dengan namanya dengan fisik yang kuat dan taktik kepala dingin."
+            }
+        },
+        "buy": "beli",
+        "activate": "aktifkan",
+        "choose": "pilih",
+        "left": "tersisa",
+        "loading": "Memuat peningkatan..."
+    },
+    "stats": {
+        "title": "Statistik Hari Ini",
+        "league": "liga",
+        "rank-novice": "Pemula",
+        "rank-casual": "Biasa",
+        "rank-athelete": "Atlet",
+        "rank-half-marathon": "Paruh Marathon",
+        "rank-marathon": "Marathon"
+    },
+    "total-coins": {
+        "title": "Dapatkan lebih banyak koin",
+        "group1": {
+            "title": "Gratisan Harian",
+            "option1": "dapatkan bonus"
+        },
+        "group2": {
+            "title": "Tantangan",
+            "option1": "undang teman",
+            "option2": "bergabung dalam obrolan"
+        }
+    },
+    "user-page": {
+        "title": "Skor Anda adalah",
+        "title2": "Teman Lari",
+        "button": "Undang Teman"
+    },
+    "game": {
+        "button": {
+            "left": "Kiri",
+            "rigth": "Kanan",
+            "slide": "Geser",
+            "jump": "Loncat"
+        },
+        "desktop-controls1": "Gerakkan:",
+        "desktop-controls2": "Loncat: Spasi",
+        "mobile-controls1": "Geser: Swipe",
+        "mobile-controls2": "Loncat: Ketuk",
+        "ready": "Siap",
+        "set": "Siap",
+        "go": "Mulai!"
+    },
+    "button-link": {
+        "stats": "Statistik",
+        "stats-description": "lihat papan peringkat",
+        "shop": "Toko",
+        "shop-description": "beli koin"
+    }
+}

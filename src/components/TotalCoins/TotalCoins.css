@@ -1,0 +1,76 @@
+#total-coins-img {
+    height: 5em;
+}
+
+#coins-container {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+
+#coin-options  {
+    width: 90%;
+}
+
+#coins-container h1 {
+    text-align: center;
+}
+
+#coins-heading {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.coins-btn {
+    padding: 0.5rem 0.8rem;
+    margin: 1rem 0;
+    width: 100%;
+    font-size: 1.5rem;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0.2);
+    border: none;
+    color: #fff;
+    text-decoration: none;
+    backdrop-filter: blur(5px);
+    /* Blur effect */
+    transition-duration: 0.4s;
+    outline: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    /* Subtle shadow for depth */
+    cursor: pointer;
+    flex-shrink: 1; /* Allow the button to shrink */
+    flex-basis: auto;
+}
+
+.coins-btn-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: start;
+   
+}
+
+.coins-btn-text {
+    text-overflow: clip clip; /* Add ellipsis for overflowed text */
+    max-width: 70vw;
+}
+
+.coins-btn-container span {
+    display: flex;
+    align-items: center;
+    
+}
+
+.coins-btn img{
+    height: 2rem;
+}
+
+
+
+#daily {
+    margin-bottom: 2rem;
+}

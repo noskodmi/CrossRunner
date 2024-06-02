@@ -1,0 +1,105 @@
+{
+    "main": {
+        "title": "KAZANMAK İÇİN KOŞ",
+        "coins": "jeton",
+        "button": "OYNA"
+    },
+    "shop": {
+        "title1": "Banka:",
+        "title2": "jeton",
+        "powerups": {
+            "title": "Güçlendiriciler",
+            "coin box": {
+                "name": "jeton kutusu",
+                "info": "jetonlarınızı artırın"
+            },
+            "wings": {
+                "name": "kanatlar",
+                "info": "engellerin üstünden uç"
+            }
+        },
+        "characters": {
+            "title": "Karakterler",
+            "runner": {
+                "name": "runner",
+                "info": "Heyecan dolu genç bir sporcu, Koşucu, dikkat çekici çeviklik ve hızla engelleri aşıyor. Genç enerjisi ve dayanıklılığı, hızlı ve dinamik oyun tarzını tercih eden oyuncular için birinci tercih haline geliyor."
+            },
+            "cok": {
+                "name": "cok",
+                "info": "Uzak bir galaksiden gelen Cok, eşsiz yeteneklere sahip tuhaf bir uzaylıdır. Onun uzaylı kökeni özel güçler verir ve sıradışı taktiklerle dolu bir oyun deneyimi sunar."
+            },
+            "gran": {
+                "name": "gran",
+                "info": "Yaşına aldanmayın; Gran yaşlı ama dikkat çekici derecede fit bir karakterdir. Deneyim ve dayanıklılığı birleştirir ve yaşın sadece bir sayı olduğunu kanıtlar. Dayanıklılığı ve bilge stratejileri, dengeli ve hesaplı bir yaklaşımı seven oyuncuları cezbeder."
+            },
+            "robot": {
+                "name": "robot",
+                "info": "Yüksek teknoloji harikası Robot, hassasiyet ve verimlilik için tasarlanmış şık ve ileri düzey bir makinedir. Robotik yetenekleri olağanüstü manevralar ve teknik oyun sağlar, bu da gelecek odaklı ve stratejik oyuncuları cezbetmektedir."
+            },
+            "zai": {
+                "name": "zai",
+                "info": "Zai, kadronun enerji merkezidir. Dev boyutu ve eşsiz gücüyle engellerin üzerinden kolaylıkla yıkarak geçer."
+              },
+              "trap": {
+                "name": "trap",
+                "info": "Trap, sükûnetin somutlaşmış halidir. Sakin tavırlarıyla kaosun içinde rahatça kayar. Rahatlığı, tehlikeli araziden sorunsuz bir şekilde geçmesini sağlar."
+              },
+              "coolman": {
+                "name": "coolman",
+                "info": "Coolman, sağlam vücut yapısı ve soğukkanlı taktikleriyle adını fazlasıyla hak eder."
+              }
+        },
+        "buy": "satın al",
+        "activate": "etkinleştir",
+        "choose": "seç",
+        "left": "kalan",
+        "loading": "Güçlendiriciler yükleniyor..."
+    },
+    "stats": {
+        "title": "Bugünkü İstatistikler",
+        "league": "lig",
+        "rank-novice": "Acemi",
+        "rank-casual": "Rahat",
+        "rank-athelete": "Sporcu",
+        "rank-half-marathon": "Yarı Maraton",
+        "rank-marathon": "Maraton"
+    },
+    "total-coins": {
+        "title": "Daha Fazla Jeton Al",
+        "group1": {
+            "title": "Günlük Hediye",
+            "option1": "bonus kazan"
+        },
+        "group2": {
+            "title": "Meydan Okumalar",
+            "option1": "arkadaşları davet et",
+            "option2": "sohbete katıl"
+        }
+    },
+    "user-page": {
+        "title": "Puanınız",
+        "title2": "Koşucu Arkadaşlar",
+        "button": "Arkadaşları Davet Et"
+    },
+    "game": {
+        "button": {
+            "left": "Sol",
+            "rigth": "Sağ",
+            "slide": "Kay",
+            "jump": "Zıpla"
+        },
+        "desktop-controls1": "Hareket:",
+        "desktop-controls2": "Zıplama: Boşluk",
+        "mobile-controls1": "Hareket: Kaydır",
+        "mobile-controls2": "Zıplama: Dokun",
+        "ready": "Hazır",
+        "set": "Kur",
+        "go": "Başla!"
+    },
+    "button-link": {
+        "stats": "İstatistikler",
+        "stats-description": "lider tablosunu görüntüle",
+        "shop": "Mağaza",
+        "shop-description": "jeton satın al"
+    }
+}

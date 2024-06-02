@@ -1,0 +1,154 @@
+#shop-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#shop-container h1 {
+    margin: 1rem 0;
+    display: flex;
+    align-items: center; /* Ensures vertical alignment */
+    flex-wrap: nowrap; /* Prevents wrapping of the items */
+}
+
+.trcoin {
+    height: 2rem;
+    margin-left: 0.5rem;
+    flex-shrink: 0; /* Prevents the image from shrinking */
+    height: 2rem;
+    margin-left: 0.5rem;
+}
+
+/* Ensure that inline elements like span, or strong tags behave as flex-items */
+#shop-container h1 > * {
+    display: inline-flex; /* Make children flexible but inline */
+    align-items: center; /* Align the text and image vertically */
+    flex-shrink: 0; /* Prevents shrinking */
+}
+
+#shop-container h2{
+    text-align: center;
+    justify-content: center;
+}
+
+#shop-options {
+    width: 90%;
+}
+
+#tonShop-options {
+    width: 90%;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between; /* Aligns items to the edges */
+  align-items: center;           /* Centers items vertically */
+}
+  
+.container h2 {
+margin-right: 10px; /* Adjust the space between the h2 and button as needed */
+}
+
+.multiple-buttons {
+    display: flex;
+    justify-content: space-around; /* Spacing around items */
+    width: 100%; /* Full width of the parent container */
+}
+
+.multiple-buttons .shop-btn {
+    flex: 1; /* Grow each button to take equal amount of space */
+    margin: 0.5rem; /* Optional margin between buttons */
+}
+
+.shop-btn {
+    padding: 0.5rem 0.8rem;
+    margin: 1rem 0;
+    width: 100%;
+    font-size: 1.5rem;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0.2);
+    border: none;
+    color: #fff;
+    text-decoration: none;
+    backdrop-filter: blur(5px);
+    /* Blur effect */
+    transition-duration: 0.4s;
+    outline: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    /* Subtle shadow for depth */
+    cursor: pointer;
+}
+
+.shop-btn-container img {
+    /* If you want to style the arrow image */
+    height: 1.5rem;
+    /* Adjust as necessary */
+    margin-left: 0.5rem;
+}
+
+.shop-btn-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* flex-direction: row; */
+}
+
+.shop-btn-container div {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+
+.shop-btn img {
+    height: 2rem;
+}
+
+#daily {
+    margin-bottom: 1rem;
+}
+
+.shop-btn.bought {
+    border: 3px solid green;
+}
+
+.shop-btn.chosen {
+    border: 3px solid blue;
+}
+
+/* New or updated CSS */
+.emoji-style {
+    margin-right: 0.5rem;
+    /* Adjust size as needed */
+}
+
+.powerup-name {
+    flex-grow: 1;
+    margin-right: auto;
+    /* Ensures it pushes everything to the right */
+}
+
+.price {
+    margin-right: 0.5rem;
+}
+
+.boost-amount {
+    color: #3e3c3c;
+    /* Replace with whatever color you want */
+    font-size: 0.8rem;
+    /* Replace with the desired font size */
+    margin-right: 1rem;
+    /* Optional space between the number and 'left' */
+}
+
+.character-image-container img {
+    display: block;
+    max-width: 100%;
+    /* Additional styles here */
+}
+
+.blur-effect {
+    filter: blur(5px); /* Adjust the pixel value as needed */
+    pointer-events: none;
+}

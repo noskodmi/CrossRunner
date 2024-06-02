@@ -1,0 +1,105 @@
+{
+    "main": {
+        "title": "CHẠY ĐỂ CHIẾN THẮNG",
+        "coins": "điểm",
+        "button": "CHƠI"
+    },
+    "shop": {
+        "title1": "Ngân hàng:",
+        "title2": "điểm",
+        "powerups": {
+            "title": "Cải tiến",
+            "coin box": {
+                "name": "hộp tiền",
+                "info": "tăng điểm của bạn"
+            },
+            "wings": {
+                "name": "cánh",
+                "info": "bay qua chướng ngại vật"
+            }
+        },
+        "characters": {
+            "title": "Nhân vật",
+            "runner": {
+                "name": "người chạy",
+                "info": "Một vận động viên trẻ trung và nhiệt huyết, Người chạy vượt qua các chướng ngại vật với sự nhạy bén và tốc độ đáng kinh ngạc. Năng lượng trẻ và sức bền của anh ấy khiến anh ấy trở thành lựa chọn hàng đầu cho những người chơi ưa thích trò chơi nhanh và linh hoạt."
+            },
+            "cok": {
+                "name": "cok",
+                "info": "Xuất phát từ một thiên hà xa xôi, Cok là một người ngoài hành tinh kỳ quặc với khả năng độc đáo. Nguyên nhân ngoài hành tinh của anh ấy ban cho anh ấy sức mạnh đặc biệt, mang lại một trải nghiệm chơi game đầy bất ngờ và chiến thuật phi thường."
+            },
+            "gran": {
+                "name": "gran",
+                "info": "Đừng bị đánh lừa bởi tuổi của cô ấy; Gran là một nhân vật già nhưng vẫn rất phong trần. Cô ấy kết hợp kinh nghiệm và sức bền, chứng minh rằng tuổi tác chỉ là con số. Sự kiên nhẫn và chiến lược khôn ngoan của cô ấy thu hút những người chơi thích phương pháp ổn định và tính toán."
+            },
+            "robot": {
+                "name": "robot",
+                "info": "Một kỳ tích công nghệ cao, Robot là một chiếc máy mạnh mẽ và tiên tiến được thiết kế cho độ chính xác và hiệu suất. Các khả năng robot của nó cho phép các thao tác phi thường và trò chơi kỹ thuật, thu hút những người chơi yêu thích phong cách chơi hiện đại và chiến lược."
+            },
+            "zai": {
+                "name": "zai",
+                "info": "Zai là trung tâm năng lượng của đội của mình. Kích thước khổng lồ và sức mạnh vô song giúp anh ta dễ dàng phá hủy các chướng ngại vật trên đường đi."
+              },
+              "trap": {
+                "name": "trap",
+                "info": "Bẫy là hình ảnh của sự bình yên. Với thái độ bình tĩnh của mình, anh ta dễ dàng trượt qua trong hỗn loạn. Sự tự tin của anh ta giúp anh ta di chuyển qua các khu vực nguy hiểm một cách dễ dàng."
+              },
+              "coolman": {
+                "name": "coolman",
+                "info": "Coolman xứng đáng với cái tên của mình nhờ vào vóc dáng vững chắc và chiến thuật điềm tĩnh."
+              }
+        },
+        "buy": "mua",
+        "activate": "kích hoạt",
+        "choose": "chọn",
+        "left": "còn lại",
+        "loading": "Đang tải cải tiến..."
+    },
+    "stats": {
+        "title": "Thống kê Hôm nay",
+        "league": "liên đoàn",
+        "rank-novice": "Tân binh",
+        "rank-casual": "Thường",
+        "rank-athelete": "Vận động viên",
+        "rank-half-marathon": "Nửa marathon",
+        "rank-marathon": "Marathon"
+    },
+    "total-coins": {
+        "title": "Nhận thêm điểm",
+        "group1": {
+            "title": "Quà miễn phí hàng ngày",
+            "option1": "kiếm thưởng"
+        },
+        "group2": {
+            "title": "Thách thức",
+            "option1": "mời bạn bè",
+            "option2": "tham gia trò chuyện"
+        }
+    },
+    "user-page": {
+        "title": "Điểm của bạn là",
+        "title2": "Bạn bè chạy",
+        "button": "Mời bạn bè"
+    },
+    "game": {
+        "button": {
+            "left": "Trái",
+            "rigth": "Phải",
+            "slide": "Trượt",
+            "jump": "Nhảy"
+        },
+        "desktop-controls1": "Di chuyển:",
+        "desktop-controls2": "Nhảy: Không gian",
+        "mobile-controls1": "Di chuyển: Vuốt",
+        "mobile-controls2": "Nhảy: Chạm",
+        "ready": "Sẵn sàng",
+        "set": "Chuẩn bị",
+        "go": "Bắt đầu!"
+    },
+    "button-link": {
+        "stats": "Thống kê",
+        "stats-description": "xem bảng xếp hạng",
+        "shop": "Cửa hàng",
+        "shop-description": "mua điểm"
+    }
+}

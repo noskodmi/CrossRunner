@@ -1,0 +1,92 @@
+#invite-btn {
+    bottom: 0;
+    padding: 0.5rem 0.8rem;
+    margin: 1rem;
+    width: 90%;
+    font-size: 1.5rem;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0.2);
+    border: none;
+    color: #fff;
+    text-decoration: none;
+    backdrop-filter: blur(5px);
+    /* Blur effect */
+    transition-duration: 0.4s;
+    outline: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    /* Subtle shadow for depth */
+    cursor: pointer;
+}
+
+h3{
+    margin: 0.5rem 0;
+}
+
+#invite-btn:hover {
+    background-color: rgba(255, 255, 255, 0.3);
+    /* Slightly less transparent on hover */
+}
+
+#frens-container {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#frens-list {
+    width: 90%;
+    
+}
+
+#frens-list li {
+    font-size: 1.5rem;
+    background-color: rgba(255, 255, 255, 0.2);
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    padding: 0.5rem 0.8rem;
+    max-height: 70vh; /* Example max height, adjust as needed */
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch; /* Smooth scrolling for iOS devices */
+}
+
+li {
+    list-style-type: none;
+    width: 90vw;
+}
+
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    padding: 0.5rem;
+}
+
+ul:last-child {
+    border-bottom: none;
+}
+
+.fren-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 1rem;
+    width: 11rem;
+
+}
+
+.fren-info span {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.fren-c {
+    display: flex;
+    flex-direction: row;
+    overflow-x: hidden;
+}

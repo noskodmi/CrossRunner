@@ -1,0 +1,20 @@
+.touchable-image {
+    cursor: pointer;
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+
+    /* Initial shadow for the floating effect */
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+    border-radius: 10px; /* Optional: if you want rounded corners */
+    overflow: hidden; /* To respect border-radius if used */
+}
+
+.touchable-image img {
+    display: block; /* Remove default image margins */
+    width: 100px; /* Adjust as needed */
+    height: auto;
+}
+
+/* You can add :hover styles if needed */
+.touchable-image:hover {
+    /* Optional hover styles */
+}

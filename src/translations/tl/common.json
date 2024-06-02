@@ -1,0 +1,105 @@
+{
+    "main": {
+        "title": "TUMAKBO PARA MANALO",
+        "coins": "mga barya",
+        "button": "LARO"
+    },
+    "shop": {
+        "title1": "Bangko:",
+        "title2": "mga barya",
+        "powerups": {
+            "title": "Mga Pampalakas",
+            "coin box": {
+                "name": "kahon ng mga barya",
+                "info": "paramihin ang iyong mga barya"
+            },
+            "wings": {
+                "name": "pakpak",
+                "info": "liparin ang mga hadlang"
+            }
+        },
+        "characters": {
+            "title": "Mga Tauhan",
+            "runner": {
+                "name": "runner",
+                "info": "Isang masiglang batang atleta, ang Tagapagtakbo ay tumatalon sa mga hadlang nang may kahanga-hangang kawilihan at bilis. Ang kanyang kabataang enerhiya at tatag ay nagpapagawa sa kanya bilang unang pagpipilian para sa mga manlalaro na mas gusto ang mabilis at dinamikong laro."
+            },
+            "cok": {
+                "name": "cok",
+                "info": "Galing sa isang malayong galaksiya, si Cok ay isang kakaibang alien na may mga natatanging kakayahan. Ang kanyang pangunahing pinagmulan ay nagbibigay sa kanya ng espesyal na kapangyarihan, nag-aalok ng isang karanasang laro na puno ng mga sorpresa at hindi kapani-paniwala."
+            },
+            "gran": {
+                "name": "gran",
+                "info": "Huwag palolokohin ng kanyang edad; si Gran ay isang matandang ngunit kahanga-hangang malakas na karakter. Pinagsasama niya ang kanyang karanasan at tatag, pinatutunayan na ang edad ay isang numero lamang. Ang kanyang pagiging matatag at matalinong mga diskarte ay umaakit sa mga manlalaro na nasisiyahan sa isang matiyagang at kalkuladong paraan."
+            },
+            "robot": {
+                "name": "robot",
+                "info": "Isang kagila-gilalas na gawa sa mataas na teknolohiya, ang Robot ay isang makinang marahas at abanteng disenyo para sa katiyakan at kahusayan. Ang kanyang mga kakayahan sa robotika ay nagbibigay-daan sa mga kahanga-hangang maniobra at teknikal na laro, na umaakit sa mga manlalaro na umiibig sa isang futuristic at estratehikong estilo ng paglalaro."
+            },
+            "zai": {
+                "name": "zai",
+                "info": "Si Zai ay ang nangingibabaw na pwersa sa unahan ng linya. Sa kanyang nakakabilib na laki at walang katulad na lakas, madali niyang natutumba ang mga balakid."
+              },
+              "trap": {
+                "name": "trap",
+                "info": "Si Trap, ang simbolo ng katahimikan, ay dumaan sa gulo na may relaks na saloobin. Ang kanyang mahinahong pag-uugali ay nagpapahintulot sa kanya na mag-navigate sa mapanganib na teritoryo nang walang hirap."
+              },
+              "coolman": {
+                "name": "coolman",
+                "info": "Pinatunayan ni Coolman ang kanyang pangalan sa pamamagitan ng kanyang nakaka-awtoridad na tindig at taktikang mahinahon."
+              }
+        },
+        "buy": "bilhin",
+        "activate": "aktibuhin",
+        "choose": "pumili",
+        "left": "natitira",
+        "loading": "Nagloload ng mga pampalakas..."
+    },
+    "stats": {
+        "title": "Estadistika Ngayon",
+        "league": "liga",
+        "rank-novice": "Baguhan",
+        "rank-casual": "Kaswal",
+        "rank-athelete": "Atleta",
+        "rank-half-marathon": "Kalahating Maraton",
+        "rank-marathon": "Maraton"
+    },
+    "total-coins": {
+        "title": "Kumuha ng Karagdagang mga Barya",
+        "group1": {
+            "title": "Libreng Regalo Araw-araw",
+            "option1": "kumita ng bonus"
+        },
+        "group2": {
+            "title": "Mga Hamon",
+            "option1": "mag-imbita ng mga kaibigan",
+            "option2": "sumali sa chat"
+        }
+    },
+    "user-page": {
+        "title": "Ang Iyong Iskor ay",
+        "title2": "Mga Kaibigang Tumatakbo",
+        "button": "Imbitahin ang mga Kaibigan"
+    },
+    "game": {
+        "button": {
+            "left": "Kaliwa",
+            "rigth": "Kanan",
+            "slide": "Dumulas",
+            "jump": "Tumalon"
+        },
+        "desktop-controls1": "Galaw:",
+        "desktop-controls2": "Talon: Puwang",
+        "mobile-controls1": "Galaw: Pindot",
+        "mobile-controls2": "Talon: Pindot",
+        "ready": "Handa",
+        "set": "Takbo",
+        "go": "Go!"
+    },
+    "button-link": {
+        "stats": "Estadistika",
+        "stats-description": "tingnan ang leaderboard",
+        "shop": "Tindahan",
+        "shop-description": "bumili ng mga barya"
+    }
+}

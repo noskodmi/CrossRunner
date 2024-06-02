@@ -1,0 +1,212 @@
+html,
+body {
+  min-height: 100%;
+}
+
+body {
+  background-image: linear-gradient(to top, #94a8f7 15%, #aba4fc 100%);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.webgl {
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  outline: none;
+}
+
+#loading-screen {
+  position: absolute;
+  z-index: 2;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #94a8f7;
+  opacity: 1;
+  transition: 1s opacity;
+  pointer-events: none;
+}
+
+#loading-screen.fade-out {
+  opacity: 0;
+}
+
+.loading-container {
+  width: 300px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-left: -150px;
+  margin-top: -8px;
+}
+
+.progress-bar-container {
+  height: 8px;
+  position: relative;
+  border-radius: 4px;
+  background: rgba(255, 255, 255, 0.2);
+  overflow: hidden;
+}
+
+#progress-bar {
+  position: absolute;
+  background: #fff;
+  top: 0px;
+  bottom: 0px;
+  left: 0;
+  border-radius: 1px;
+  transition: 1s width;
+}
+
+.scoreboard {
+  position: absolute;
+  top: 8px;
+  font-size: 50px; /* Smaller than the original size */
+  text-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
+  text-align: center;
+  line-height: 0.85;
+  z-index: 1; /* Ensure it's visible */
+}
+
+.score-container {
+  display: flex;
+  align-items: center; /* This will vertically align your items in the middle */
+}
+
+#left-scoreboard {
+  left: 20px; /* Position to the left */
+  color: yellow; /* Score color */
+}
+
+#right-scoreboard {
+  right: 20px; /* Position to the right */
+  color: white; /* Distance color */
+}
+
+.tr-coin {
+  height: 40px; /* Adjust based on your preference */
+  width: auto; /* Maintain aspect ratio */
+  vertical-align: middle; /* Align with the text if necessary */
+  margin-left: 10px; /* Space between the score and the coin image */
+}
+
+.bottom-bar {
+  position: absolute; /* Use fixed if you want it to stay at the bottom regardless of scrolling */
+  bottom: 5px;
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 1;
+}
+
+.bottom-bar > div {
+  padding: 10px 15px;
+}
+
+#desktop-controls,
+#mobile-controls {
+  display: none;
+  gap: 4px;
+}
+
+#desktop-controls span,
+#mobile-controls span {
+  background: rgba(255, 255, 255, 0.2);
+  padding: 1px 5px;
+  border-radius: 5px;
+}
+
+
+.controls-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+
+.left-control, .right-control {
+  flex-basis: 33%; /* Allocate space to the sides */
+}
+
+.center-controls {
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-basis: 33%; /* Allocate space for the center controls */
+}
+
+.control-button {
+  min-width: 90%;
+  margin: 0 5px;
+  padding: 0.6rem 0.8rem;
+  text-align: center;
+  /* width: 50%; */
+  background-color: rgba(255, 255, 255, 0.2);
+  /* border: none; */
+  color: #fff; 
+  text-decoration: none;
+  backdrop-filter: blur(0.5rem); /* Blur effect */
+  transition-duration: 0.4s;
+  outline: none;
+  border-radius: 10px;
+  box-shadow: 0 0.5rem 0.5rem rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  cursor: pointer;
+  /* Add more styling here such as background color, border, etc */
+}
+
+.jump-button {
+  margin-bottom: 0.5rem;
+}
+
+.top-bar {
+  position: absolute;
+  top: 50px;
+  left: 10px;
+  right: 10px; /* Stretch the top-bar across the full width */
+  display: flex;
+  justify-content: space-between; /* Distribute children to the sides */
+  padding: 10px;
+  visibility: hidden;
+  z-index: 4;
+}
+
+.left-bar {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.consumable-button {
+  min-width: 50px;
+  padding: 0.5rem;
+  margin-bottom: 0.5rem;
+  border-radius: 10px;
+  background-color: #94a8f7; /* Green background 2db9f1*/
+  color: white;
+  text-align: center;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+
+@media (max-width: 499px) {
+  .bottom-bar
+   {
+    flex-direction: column;
+    align-items: center
+  }
+  .bottom-bar > div {
+    justify-self: center;
+  }
+}

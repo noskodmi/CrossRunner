@@ -1,0 +1,127 @@
+{
+    "main": {
+        "title": "RUN TO WIN",
+        "coins": "coins",
+        "button": "PLAY"
+    },
+    "shop": {
+        "title1": "Bank:",
+        "title2": "coins",
+        "tonShop": {
+            "title": "TON Shop",
+            "connectWalletAlert": "Connect wallet",
+            "comeBackLater": "Please come back later",
+            "box1": {
+                "name": "coin box",
+                "info": "TR Coin + 10000"
+            },
+            "box2": {
+                "name": "medium coin box",
+                "info": "TR Coin + 60000"
+            },
+            "box3": {
+                "name": "large coin box",
+                "info": "TR Coin + 250000"
+            }
+        },
+        "powerups": {
+            "title": "Power ups",
+            "wings": {
+                "name": "wings",
+                "info": "fly over obstacles"
+            },
+            "special": {
+                "name": "special",
+                "info": "Coins x10"
+            },
+            "rainbow": {
+                "name": "rainbow",
+                "info": "Forget everything and run"
+            }
+        },
+        "characters": {
+            "title": "Characters",
+            "runner": {
+                "name": "runner",
+                "info": "A spirited young athlete, Runner dashes through obstacles with remarkable agility and speed. His youthful energy and endurance make him a top choice for players who favor swift, dynamic gameplay."
+            },
+            "cok": {
+                "name": "cok",
+                "info": "Hailing from a distant galaxy, Cok is a quirky alien with unique abilities. His extraterrestrial origin grants him special powers, offering a gameplay experience filled with surprises and unconventional tactics."
+            },
+            "gran": {
+                "name": "gran",
+                "info": "Don't be fooled by her age; Gran is an old but remarkably fit character. She combines experience and stamina, proving that age is just a number. Her resilience and wise strategies appeal to players who enjoy a steady and calculated approach."
+            },
+            "robot": {
+                "name": "robot",
+                "info": "A high-tech marvel, Robot is a sleek and advanced machine designed for precision and efficiency. Its robotic capabilities allow for extraordinary maneuvers and technical gameplay, attracting players who love a futuristic and strategic."
+            },
+            "zai": {
+                "name": "zai",
+                "info": "Zai is the powerhouse of the roster. With his imposing size and unmatched strength, he bulldozes through obstacles with ease."
+            },
+            "trap": {
+                "name": "trap",
+                "info": "Trap, the embodiment of calmness, glides through chaos with a laid-back attitude. His chilled-out vibe allows him to effortlessly navigate treacherous terrain."
+            },
+            "coolman": {
+                "name": "coolman",
+                "info": "Coolman lives up to his name with his robust physique and cool-headed tactics."
+            }       
+        },
+        "buy": "buy",
+        "activate": "activate",
+        "choose": "choose",
+        "left": "left",
+        "loading": "Loading power ups..."
+    },
+    "stats": {
+        "title": "Today statistics",
+        "league": "league",
+        "rank-novice": "Novice",
+        "rank-casual": "Casual",
+        "rank-athelete": "Athlete",
+        "rank-half-marathon": "Half-marathon",
+        "rank-marathon": "Marathon"
+    },
+    "total-coins": {
+        "title": "Get more coins",
+        "group1": {
+            "title": "Daily Freebie",
+            "option1": "earn boost"
+        },
+        "group2": {
+            "title": "Challenges",
+            "option1": "invite friends",
+            "option2": "join chat"
+        }
+    },
+    "user-page": {
+        "title": "Your max distance today: ",
+        "title1": "Your total distance: ",
+        "title2": "Running friends",
+        "button": "Invite friends"
+    },
+    "game": {
+        "button": {
+            "left": "Left",
+            "rigth": "Right",
+            "slide": "Slide",
+            "jump": "Jump"
+        },
+        "desktop-controls1": "Move:",
+        "desktop-controls2": "Jump: Space",
+        "mobile-controls1": "Move: Swipe",
+        "mobile-controls2": "Jump: Tap",
+        "ready": "Ready",
+        "set": "Space",
+        "go": "Go!"
+    },
+    "button-link": {
+        "stats": "Statistics",
+        "stats-description": "watch leaderboard",
+        "shop": "Shop",
+        "shop-description": "buy coins"
+    }
+  }

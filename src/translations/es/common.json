@@ -1,0 +1,105 @@
+{
+    "main": {
+        "title": "CORRE PARA GANAR",
+        "coins": "monedas",
+        "button": "JUGAR"
+    },
+    "shop": {
+        "title1": "Banco:",
+        "title2": "monedas",
+        "powerups": {
+            "title": "Potenciadores",
+            "coin box": {
+                "name": "caja de monedas",
+                "info": "aumenta tus monedas"
+            },
+            "wings": {
+                "name": "alas",
+                "info": "vuela sobre obstáculos"
+            }
+        },
+        "characters": {
+            "title": "Personajes",
+            "runner": {
+                "name": "corredor",
+                "info": "Un atleta joven y enérgico, el Corredor atraviesa obstáculos con notable agilidad y velocidad. Su energía juvenil y resistencia lo convierten en la opción principal para los jugadores que prefieren una jugabilidad rápida y dinámica."
+            },
+            "cok": {
+                "name": "cok",
+                "info": "Proveniente de una galaxia lejana, Cok es un alienígena peculiar con habilidades únicas. Su origen extraterrestre le otorga poderes especiales, ofreciendo una experiencia de juego llena de sorpresas y tácticas no convencionales."
+            },
+            "gran": {
+                "name": "gran",
+                "info": "No te dejes engañar por su edad; Gran es un personaje viejo pero notablemente en forma. Combina experiencia y resistencia, demostrando que la edad es solo un número. Su resistencia y estrategias sabias atraen a jugadores que disfrutan de un enfoque constante y calculado."
+            },
+            "robot": {
+                "name": "robot",
+                "info": "Una maravilla de alta tecnología, Robot es una máquina elegante y avanzada diseñada para precisión y eficiencia. Sus capacidades robóticas permiten maniobras extraordinarias y juego técnico, atrayendo a jugadores que aman un estilo de juego futurista y estratégico."
+            },
+            "zai": {
+                "name": "zai",
+                "info": "Zai es el gigante de su equipo. Con su gran estatura e incomparable fuerza, puede eliminar obstáculos con facilidad."
+            },
+            "trap": {
+                "name": "trap",
+                "info": "Trap, la imagen de la serenidad, se desliza a través del caos con un porte controlado. Su carácter meditabundo le permite moverse sin esfuerzo a través de terrenos peligrosos."
+            },
+            "coolman": {
+                "name": "coolman",
+                "info": "Coolman hace honor a su nombre con su robusta constitución y tácticas relajadas."
+            }
+        },
+        "buy": "comprar",
+        "activate": "activar",
+        "choose": "elegir",
+        "left": "restante",
+        "loading": "Cargando potenciadores..."
+    },
+    "stats": {
+        "title": "Estadísticas de Hoy",
+        "league": "liga",
+        "rank-novice": "Novato",
+        "rank-casual": "Casual",
+        "rank-athelete": "Atleta",
+        "rank-half-marathon": "Medio Maratón",
+        "rank-marathon": "Maratón"
+    },
+    "total-coins": {
+        "title": "Obtener más monedas",
+        "group1": {
+            "title": "Recompensa Diaria",
+            "option1": "obtener bonificación"
+        },
+        "group2": {
+            "title": "Desafíos",
+            "option1": "invitar amigos",
+            "option2": "unirse al chat"
+        }
+    },
+    "user-page": {
+        "title": "Tu puntaje es",
+        "title2": "Amigos Corredores",
+        "button": "Invitar amigos"
+    },
+    "game": {
+        "button": {
+            "left": "Izquierda",
+            "rigth": "Derecha",
+            "slide": "Deslizar",
+            "jump": "Saltar"
+        },
+        "desktop-controls1": "Mover:",
+        "desktop-controls2": "Saltar: Espacio",
+        "mobile-controls1": "Mover: Deslizar",
+        "mobile-controls2": "Saltar: Toque",
+        "ready": "Listo",
+        "set": "Preparar",
+        "go": "¡Ir!"
+    },
+    "button-link": {
+        "stats": "Estadísticas",
+        "stats-description": "ver clasificación",
+        "shop": "Tienda",
+        "shop-description": "comprar monedas"
+    }
+}

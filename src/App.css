@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Unbounded&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans&display=swap');
+
+a {
+  color: #fff;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: linear-gradient(to top, #94a8f7 15%, #aba4fc 100%);
+  background-image: linear-gradient(to top, #94a8f7 15%, #aba4fc 100%);
+  font-family: 'Pixelify Sans', sans-serif;
+  color: #fff;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-decoration: none; 
+}
+
+html[lang="ru"] body {
+  font-family: 'Unbounded', sans-serif !important;
+}
+
+html[lang="ru"]  {
+  font-size: 12px !important;
+}

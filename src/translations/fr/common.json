@@ -1,0 +1,105 @@
+{
+    "main": {
+        "title": "COURS POUR GAGNER",
+        "coins": "pièces",
+        "button": "JOUEZ"
+    },
+    "shop": {
+        "title1": "Banque :",
+        "title2": "pièces",
+        "powerups": {
+            "title": "Améliorations",
+            "coin box": {
+                "name": "boîte à pièces",
+                "info": "augmente vos pièces"
+            },
+            "wings": {
+                "name": "ailes",
+                "info": "voler au-dessus des obstacles"
+            }
+        },
+        "characters": {
+            "title": "Personnages",
+            "runner": {
+                "name": "coureur",
+                "info": "Un athlète jeune et dynamique, le Coureur se faufile à travers les obstacles avec une agilité et une vitesse remarquables. Son énergie et son endurance juvéniles en font un choix de prédilection pour les joueurs qui privilégient un jeu rapide et dynamique."
+            },
+            "cok": {
+                "name": "cok",
+                "info": "Provenant d'une galaxie lointaine, Cok est un extraterrestre loufoque avec des capacités uniques. Son origine extraterrestre lui confère des pouvoirs spéciaux, offrant une expérience de jeu remplie de surprises et de tactiques non conventionnelles."
+            },
+            "gran": {
+                "name": "gran",
+                "info": "Ne vous laissez pas tromper par son âge ; Gran est un personnage vieux mais remarquablement en forme. Elle combine expérience et endurance, prouvant que l'âge n'est qu'un chiffre. Sa résilience et ses stratégies avisées séduisent les joueurs qui apprécient une approche stable et calculée."
+            },
+            "robot": {
+                "name": "robot",
+                "info": "Merveille de haute technologie, Robot est une machine élégante et avancée conçue pour la précision et l'efficacité. Ses capacités robotiques permettent des manœuvres extraordinaires et un gameplay technique, attirant les joueurs qui aiment un jeu futuriste et stratégique."
+            },
+            "zai": {
+                "name": "zai",
+                "info": "Zai est le géant de son équipe. Avec sa grande taille et sa force inégalée, il peut éliminer les obstacles avec facilité."
+            },
+            "trap": {
+                "name": "trap",
+                "info": "Trap, l'image même de la sérénité, glisse à travers le chaos avec une maîtrise contrôlée. Sa nature méditative lui permet de se déplacer sans effort dans des terrains dangereux."
+            },
+            "coolman": {
+                "name": "coolman",
+                "info": "Coolman fait honneur à son nom avec sa constitution robuste et ses tactiques décontractées."
+            }
+        },
+        "buy": "acheter",
+        "activate": "activer",
+        "choose": "choisir",
+        "left": "gauche",
+        "loading": "Chargement des améliorations..."
+    },
+    "stats": {
+        "title": "Statistiques du jour",
+        "league": "ligue",
+        "rank-novice": "Novice",
+        "rank-casual": "Décontracté",
+        "rank-athelete": "Athlète",
+        "rank-half-marathon": "Semi-marathon",
+        "rank-marathon": "Marathon"
+    },
+    "total-coins": {
+        "title": "Obtenez plus de pièces",
+        "group1": {
+            "title": "Cadeau quotidien",
+            "option1": "gagner un bonus"
+        },
+        "group2": {
+            "title": "Défis",
+            "option1": "inviter des amis",
+            "option2": "rejoindre le chat"
+        }
+    },
+    "user-page": {
+        "title": "Votre score est",
+        "title2": "Amis coureurs",
+        "button": "Inviter des amis"
+    },
+    "game": {
+        "button": {
+            "left": "Gauche",
+            "rigth": "Droite",
+            "slide": "Glisser",
+            "jump": "Sauter"
+        },
+        "desktop-controls1": "Déplacement :",
+        "desktop-controls2": "Saut : Espace",
+        "mobile-controls1": "Déplacement : Balayer",
+        "mobile-controls2": "Saut : Taper",
+        "ready": "Prêt",
+        "set": "Préparer",
+        "go": "Partez !"
+    },
+    "button-link": {
+        "stats": "Statistiques",
+        "stats-description": "voir le classement",
+        "shop": "Magasin",
+        "shop-description": "acheter des pièces"
+    }
+}
