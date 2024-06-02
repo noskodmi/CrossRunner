@@ -4,6 +4,7 @@ Open [Telegram mini app bot link](https://t.me/testbotminiappbot) to play game. 
 
 Linea [CROSS Token] (https://lineascan.build/token/0x8327c74e66f3176f6be540c730b962f3e0562449)
 Mantle [CROSS Token] (https://explorer.sepolia.mantle.xyz/address/0xaC0d56E871DbeecE3e576A4B64183eCd9a479195)
+
 ## Setup
 
 ``` bash
